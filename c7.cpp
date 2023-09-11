@@ -5,6 +5,9 @@ enum boolean{f,t};
 enum days{sun,mon,thu,wen,thr,fri,sat};
 int main()
 {
+
+	cout << "220130318021";
+	
 	cout<<"Enter the false or true : ";
 	cout<<"False  "<<f<<endl;
 	cout<<"True   "<<t<<endl;
