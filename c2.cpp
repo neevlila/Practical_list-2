@@ -2,6 +2,9 @@
 using namespace std;
 int fun()
 {
+
+	cout << "220130318021";
+	
 	int a;
 	static int b;
 	
